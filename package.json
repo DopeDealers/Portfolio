@@ -1,0 +1,12 @@
+{
+    "name": "site",
+    "author": "Phil#0004",
+    "main": "app.js",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "^4.16.4"
+    },
+    "scripts": {
+        "start": "node app.js"
+    }
+}
